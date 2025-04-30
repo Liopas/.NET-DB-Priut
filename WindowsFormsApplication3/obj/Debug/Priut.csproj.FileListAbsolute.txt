@@ -1,0 +1,50 @@
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\anim.mdb
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\Priut.csproj.AssemblyReference.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\Priut.csproj.SuggestedBindingRedirects.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\Priut.csproj.GenerateResource.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\Priut.csproj.CoreCompileInputs.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\Priut.csproj.Up2Date
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\anim.mdb
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\Priut.csproj.AssemblyReference.cache
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\Priut.csproj.SuggestedBindingRedirects.cache
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\Priut.csproj.GenerateResource.cache
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\Priut.csproj.CoreCompileInputs.cache
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\Priut.csproj.Up2Date
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ray\Desktop\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

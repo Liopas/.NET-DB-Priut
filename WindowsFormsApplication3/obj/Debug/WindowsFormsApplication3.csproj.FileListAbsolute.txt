@@ -1,0 +1,196 @@
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\011\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\011\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\011\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\011\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\011\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\anim.mdb
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.cache
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.compiled
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\anim.mdb
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.cache
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.compiled
+E:\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ИКис\DiploH\Projects VS\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.cache
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\RdlCompile.compiled
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\anim.mdb
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\011\Desktop\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\anim.mdb
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.SuggestedBindingRedirects.cache
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsF.B5F61009.Up2Date
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\WindowsFormsApplication3new\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\anim.mdb
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.SuggestedBindingRedirects.cache
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsF.B5F61009.Up2Date
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\anim.mdb
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.SuggestedBindingRedirects.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.config
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form10.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form11.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form12.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form13.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form14.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form5.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form6.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form7.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form8.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form9.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsF.B5F61009.Up2Date
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+B:\Junky\DDD\C#.NET DB Priut — копия\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
